@@ -1,0 +1,7 @@
+{
+  "name": "Vida com O Senhor",
+  "description": "Um aplicativo devocional completo para transformar sua vida espiritual com IA, diário, estudos bíblicos e mentoria.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
